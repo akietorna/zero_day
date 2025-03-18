@@ -1,1 +1,1 @@
-My first readme file 
+This project aims at linking my local repositories to remote ones.
